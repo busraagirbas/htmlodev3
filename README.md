@@ -7,7 +7,6 @@
     <title>Tarif</title>
 </head>
 <body>
-
     <h1><i>Tepsileri Dolduran Pamuk Gibi Poğaça Tarifi</i></h1>
     <p>Tepsileri Dolduran Pamuk Gibi Poğaça Tarifi Nasıl Yapılır?</p>
     <h4>Tarif:Elif Atalar</h4>    
