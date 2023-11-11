@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html lang="tr">
 <head><meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Tarif</title></head>
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Tarif</title></head>
 <body>
     <h1><i>Tepsileri Dolduran Pamuk Gibi Poğaça Tarifi</i></h1>
     <p>Tepsileri Dolduran Pamuk Gibi Poğaça Tarifi Nasıl Yapılır?</p>
