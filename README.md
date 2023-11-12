@@ -1,9 +1,4 @@
-<!DOCTYPE html>
-<html lang="tr">
-<head><meta charset="UTF-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="viewport" content="width=device-width, initial-scale=1.0"><title>Tarif</title></head>
-<body>
+![htmlÖdev3](https://raw.githubusercontent.com/busraagirbas/htmlodev3/ade582b8a5bd226b186e21139a03019c57e43d53/odev%203.PNG)
     <h1><i>Tepsileri Dolduran Pamuk Gibi Poğaça Tarifi</i></h1>
     <p>Tepsileri Dolduran Pamuk Gibi Poğaça Tarifi Nasıl Yapılır?</p>
     <h4>Tarif:Elif Atalar</h4>    
